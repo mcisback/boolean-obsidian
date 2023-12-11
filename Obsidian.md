@@ -1,4 +1,4 @@
-### Introduzione (15 min)
+### Introduzione
 
 1. **Cos'è Obsidian**
     - Breve introduzione su Obsidian e i suoi vantaggi.
@@ -6,7 +6,7 @@
     - Panoramica del plugin Obsidian-git.
     - Come Obsidian-git integra funzionalità Git in Obsidian.
 
-### Installazione e Configurazione (30 min)
+### Installazione e Configurazione 
 
 1. **Installazione di Obsidian**
     - Scaricare e installare Obsidian.
@@ -17,7 +17,7 @@
 3. **Installazione del Plugin Obsidian-git**
     - Come installare e configurare il plugin Obsidian-git.
 
-### Basi di Obsidian (30 min)
+### Basi di Obsidian
 
 1. **Interfaccia Utente di Obsidian**
     - Panoramica dell'interfaccia utente.
@@ -26,7 +26,7 @@
     - Sintassi di base Markdown.
     - Creazione di collegamenti interni ed esterni.
 
-### Uso di Obsidian-git (1 ora)
+### Uso di Obsidian-git 
 
 1. **Inizializzazione e Configurazione**
     - Inizializzare un repository Git nel vault di Obsidian.
@@ -39,7 +39,7 @@
     - Configurare backup automatici.
     - Eseguire backup manuali.
 
-### Pratica con Esercizi (1 ora)
+### Pratica con Esercizi 
 
 1. **Esercizi Pratici**
     - Creare e modificare note in Obsidian.
@@ -48,13 +48,13 @@
     - Navigare nella cronologia dei commit.
     - Risolvere conflitti semplici.
 
-### Domande e Risposte (15 min)
+### Domande e Risposte
 
 1. **Sessione di Q&A**
     - Rispondere a domande specifiche.
     - Fornire consigli pratici e suggerimenti.
 
-### Conclusione (5 min)
+### Conclusione
 
 1. **Risorse e Prossimi Passi**
     - Fornire risorse aggiuntive per l'apprendimento.
